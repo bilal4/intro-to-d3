@@ -1,7 +1,7 @@
 # Site settings
 title: Intro to D3
 baseurl: "/intro-to-d3"
-url: "http://bilal4.github.io/"
+url: "https://bilal4.github.io/"
 
 # Build settings
 markdown: kramdown
